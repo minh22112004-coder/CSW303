@@ -3,9 +3,13 @@
 **1) What is the primary goal of software testing?**
 
 A. To prove that the software has no bugs.
+
 B. To write as many test cases as possible.
+
 C. To execute a program with the intent of finding errors.
+
 D. To speed up the development process.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -19,9 +23,13 @@ D. To speed up the development process.
 **2) Which of the following best describes an "understanding error"?**
 
 A. A developer makes a mistake with the upper bound of a loop, causing an "off-by-1" error.
+
 B. A developer misunderstands the requirements and doesn't handle an unexpected data format.
+
 C. A developer forgets to close a database connection, causing a performance issue.
+
 D. A developer uses an inefficient algorithm that slows down the program.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -35,9 +43,13 @@ D. A developer uses an inefficient algorithm that slows down the program.
 **3) Which type of testing is primarily concerned with whether the software works quickly and can handle the expected user load?**
 
 A. Functional Testing
+
 B. User Testing
+
 C. Performance and Load Testing
+
 D. Security Testing
+
 
 <details>
 <summary>Show Answer</summary>
@@ -51,9 +63,13 @@ D. Security Testing
 **4) A company asks a group of its own developers and a few select users to test an early version of a product to get feedback on planned features. What is this process called?**
 
 A. Beta Testing
+
 B. Release Testing
+
 C. Alpha Testing
+
 D. Unit Testing
+
 
 <details>
 <summary>Show Answer</summary>
@@ -67,9 +83,13 @@ D. Unit Testing
 **5) What is the fundamental limitation of software testing?**
 
 A. It is too expensive and time-consuming for most projects.
+
 B. It can only be performed by specialized quality assurance engineers.
+
 C. It requires complex tools that are difficult to learn.
+
 D. It can demonstrate the presence of faults, but cannot prove their absence.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -83,9 +103,13 @@ D. It can demonstrate the presence of faults, but cannot prove their absence.
 **6) A test is considered to "pass" under which condition?**
 
 A. The program runs without crashing.
+
 B. The program's behavior matches the expected behavior.
+
 C. The program executes all lines of code at least once.
+
 D. The program is approved by the product manager.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -99,9 +123,13 @@ D. The program is approved by the product manager.
 **7) A developer creating a program to process a sequence of items makes a mistake and fails to process the very last element. This is a classic example of what?**
 
 A. An understanding error
+
 B. A requirements error
+
 C. An "off-by-one" programming error
+
 D. A system integration error
+
 
 <details>
 <summary>Show Answer</summary>
@@ -115,9 +143,13 @@ D. A system integration error
 **8) Which type of testing focuses on validating the functionality of the overall system and discovering as many implementation bugs as possible?**
 
 A. User Testing
+
 B. Functional Testing
+
 C. Performance Testing
+
 D. Security Testing
+
 
 <details>
 <summary>Show Answer</summary>
@@ -131,9 +163,13 @@ D. Security Testing
 **9) The goal of which testing type is to ensure the software maintains its integrity and can protect user information from theft and damage?**
 
 A. User Testing
+
 B. Release Testing
+
 C. Performance Testing
+
 D. Security Testing
+
 
 <details>
 <summary>Show Answer</summary>
@@ -147,9 +183,13 @@ D. Security Testing
 **10) When a software company distributes an early version of its product to a large, external group of users for comments on its usability in their own environments, what is this called?**
 
 A. Alpha Testing
+
 B. Beta Testing
+
 C. System Testing
+
 D. Functional Testing
+
 
 <details>
 <summary>Show Answer</summary>

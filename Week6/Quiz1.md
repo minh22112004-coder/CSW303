@@ -3,9 +3,13 @@
 **1) What is the main goal of Requirement Engineering (RE)?**
 
 A. To design the software architecture
+
 B. To identify, analyze, and document what the system should do
+
 C. To write and test program code
+
 D. To deploy the final software
+
 
 <details>
 <summary>Show Answer</summary>
@@ -19,9 +23,13 @@ D. To deploy the final software
 **2) Which of the following best describes a “requirement”?**
 
 A. A wish list from users
+
 B. A measurable statement of what the system must do or a constraint it must satisfy
+
 C. A design diagram of the system
+
 D. A testing plan for the final product
+
 
 <details>
 <summary>Show Answer</summary>
@@ -35,9 +43,13 @@ D. A testing plan for the final product
 **3) What is the biggest risk of skipping the Requirement Engineering phase?**
 
 A. Increased speed of development
+
 B. Misunderstanding stakeholder needs leading to project failure
+
 C. Lack of programming resources
+
 D. Poor user interface design only
+
 
 <details>
 <summary>Show Answer</summary>
@@ -51,9 +63,13 @@ D. Poor user interface design only
 **4) Which activity does NOT belong to Requirement Engineering?**
 
 A. Eliciting stakeholder needs
+
 B. Defining software requirements
+
 C. Writing code in Python
+
 D. Validating requirements with users
+
 
 <details>
 <summary>Show Answer</summary>
@@ -67,9 +83,13 @@ D. Validating requirements with users
 **5) Most software project failures are primarily due to:**
 
 A. Lack of testing
+
 B. Poor requirements and changing needs
+
 C. Low coding standards
+
 D. Poor hardware selection
+
 
 <details>
 <summary>Show Answer</summary>
@@ -83,9 +103,13 @@ D. Poor hardware selection
 **6) The phrase “System shall …” is typically used to express:**
 
 A. Design choices
+
 B. Implementation tasks
+
 C. Requirements statements
+
 D. Testing criteria
+
 
 <details>
 <summary>Show Answer</summary>
@@ -99,9 +123,13 @@ D. Testing criteria
 **7) The primary purpose of Requirement Engineering is to:**
 
 A. Gather user needs and define system behavior
+
 B. Implement the software solution
+
 C. Maintain servers
+
 D. Write design patterns
+
 
 <details>
 <summary>Show Answer</summary>
@@ -115,9 +143,13 @@ D. Write design patterns
 **8) In the System Development Life Cycle (SDLC), Requirement Engineering is positioned:**
 
 A. Before design and coding
+
 B. After system deployment
+
 C. Parallel to maintenance only
+
 D. During debugging
+
 
 <details>
 <summary>Show Answer</summary>
@@ -131,9 +163,13 @@ D. During debugging
 **9) A “stakeholder” in Requirement Engineering is:**
 
 A. Only the end-user
+
 B. Anyone affected by or interested in the system
+
 C. The developer team only
+
 D. Only project managers
+
 
 <details>
 <summary>Show Answer</summary>
@@ -147,9 +183,13 @@ D. Only project managers
 **10) What is the main difference between a requirement and a design?**
 
 A. Requirements define what; designs define how
+
 B. Requirements define how; designs define what
+
 C. They are identical in purpose
+
 D. Designs are always written by clients
+
 
 <details>
 <summary>Show Answer</summary>
@@ -163,9 +203,13 @@ D. Designs are always written by clients
 **11) In Requirement Engineering, “scope creep” happens when:**
 
 A. Requirements are reduced due to constraints
+
 B. New requirements are added without control
+
 C. Users are removed from the process
+
 D. The project is completed early
+
 
 <details>
 <summary>Show Answer</summary>

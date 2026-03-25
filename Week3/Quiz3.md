@@ -3,9 +3,13 @@
 **1) What is the primary goal of failure management?**
 
 A. To guarantee that a program has zero bugs.
+
 B. To minimize the impact of failures on the user and prevent data loss.
+
 C. To automatically fix all bugs as soon as they are found.
+
 D. To make the program run faster, which reduces the chance of failure.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -19,9 +23,13 @@ D. To make the program run faster, which reduces the chance of failure.
 **2) When updating a bank database, you must (1) debit account A and (2) credit account B. What mechanism ensures that both steps complete, or neither does?**
 
 A. An if-else block
+
 B. A try-except block
+
 C. An Atomicity, Consistency, Isolation, Durability (ACID) transaction
+
 D. A regular expression
+
 
 <details>
 <summary>Show Answer</summary>
@@ -35,9 +43,13 @@ D. A regular expression
 **3) What is the main purpose of an exception-handling mechanism like try-except?**
 
 A. To "catch" runtime errors and transfer control to a special block of code for graceful cleanup.
+
 B. To validate user input before it is processed.
+
 C. To prevent errors from ever happening in the first place.
+
 D. To automatically fix the bug and retry the operation.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -51,9 +63,13 @@ D. To automatically fix the bug and retry the operation.
 **4) If a function catches an exception, performs a local cleanup (like closing a file), and then re-raises the exception, why would it do this?**
 
 A. To log the exception to the console twice.
+
 B. To crash the program intentionally.
+
 C. To allow a higher-level (calling) function to also handle the exception.
+
 D. To prove to the compiler that the exception was caught.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -67,9 +83,13 @@ D. To prove to the compiler that the exception was caught.
 **5) What are two common mechanisms to help a user recover work after a program crash?**
 
 A. Auto-save and Activity logging.
+
 B. Error messages and Pop-up alerts.
+
 C. Unit testing and Integration testing.
+
 D. Whitelisting and Blacklisting.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -83,9 +103,13 @@ D. Whitelisting and Blacklisting.
 **6) Why do external web Application Programming Interfaces (APIs) typically return numeric error codes (like Hypertext Transfer Protocol (HTTP) 404 or 500) instead of language-specific exceptions?**
 
 A. Numbers are faster to send over the internet.
+
 B. The API and the calling program may be written in different, incompatible programming languages.
+
 C. Numeric codes are more secure and cannot be intercepted.
+
 D. It is a tradition that has no real technical purpose.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -99,9 +123,13 @@ D. It is a tradition that has no real technical purpose.
 **7) What is the simplest way to prevent your application from hanging forever if an external Application Programming Interface (API) call never responds?**
 
 A. Use a timeout mechanism.
+
 B. Restart the server.
+
 C. Send the request again immediately.
+
 D. Call a different API.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -115,9 +143,13 @@ D. Call a different API.
 **8) What design pattern is used to handle a repeatedly failing external service by "tripping" and temporarily blocking all new requests to it?**
 
 A. The Circuit Breaker Pattern
+
 B. The Observer Pattern
+
 C. The Facade Pattern
+
 D. The Transaction Pattern
+
 
 <details>
 <summary>Show Answer</summary>
@@ -131,9 +163,13 @@ D. The Transaction Pattern
 **9) What is the purpose of an assert statement?**
 
 A. To handle a known program exception, like try-catch.
+
 B. To validate user input from a form.
+
 C. To check if a condition is true (as a "sanity check") and raise an error if it's false.
+
 D. To print a debug message to the console.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -147,9 +183,13 @@ D. To print a debug message to the console.
 **10) When your program has an unrecoverable internal crash, what is the best practice for the message shown to the user?**
 
 A. A detailed technical error log (e.g., "NullPointerException at line 42").
+
 B. A simple, non-technical message (e.g., "An unexpected error occurred").
+
 C. No message at all (just close the application).
+
 D. A message blaming the user for the error.
+
 
 <details>
 <summary>Show Answer</summary>

@@ -3,9 +3,13 @@
 **1) Which architectural pattern separates an application into three interconnected components: data, user interface, and business logic?**
 
 A. Client-Server
+
 B. Model-View-Controller (MVC)
+
 C. Layered Architecture
+
 D. Microservices
+
 
 <details>
 <summary>Show Answer</summary>
@@ -19,9 +23,13 @@ D. Microservices
 **2) In a Layered Architecture, what is the ‘golden rule’ of communication between layers?**
 
 A. A layer can only call services in the layer immediately below it.
+
 B. Any layer can call any other layer.
+
 C. A layer can only call layers above it.
+
 D. A layer can only call the layer immediately adjacent to it (above or below).
+
 
 <details>
 <summary>Show Answer</summary>
@@ -35,9 +43,13 @@ D. A layer can only call the layer immediately adjacent to it (above or below).
 **3) What is a primary disadvantage of a monolithic architecture compared to a microservices architecture?**
 
 A. They are simpler to deploy and test in the beginning.
+
 B. They are generally more secure by default.
+
 C. The entire application must be redeployed even for a small change.
+
 D. They have lower network latency for internal communication.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -51,9 +63,13 @@ D. They have lower network latency for internal communication.
 **4) Which is a cross-cutting concern?**
 
 A. Coupon calculation
+
 B. Security (e.g., auth, protection)
+
 C. Search ranking
+
 D. Image thumbnail size
+
 
 <details>
 <summary>Show Answer</summary>
@@ -67,9 +83,13 @@ D. Image thumbnail size
 **5) In MVC for web user interfaces (UIs), which statement is accurate?**
 
 A. Model lives on clients and holds user interface (UI) state only.
+
 B. Controllers only render HyperText Markup Language (HTML).
+
 C. Servers never update models.
+
 D. Views register for model changes and refresh when the model updates.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -83,9 +103,13 @@ D. Views register for model changes and refresh when the model updates.
 **6) Which statement about Hypertext Transfer Protocol (HTTP) in client–server apps is correct?**
 
 A. Clients send requests; servers respond.
+
 B. Servers initiate requests to clients by default.
+
 C. HTTP is binary only.
+
 D. HTTP requires Extensible Markup Language (XML) payloads.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -99,9 +123,13 @@ D. HTTP requires Extensible Markup Language (XML) payloads.
 **7) Why is JavaScript Object Notation (JSON) commonly preferred over Extensible Markup Language (XML) here?**
 
 A. Browsers can’t parse XML.
+
 B. JSON guarantees Atomicity, Consistency, Isolation, Durability (ACID).
+
 C. JavaScript Object Notation (JSON) is usually more compact and faster to parse, and maps to objects easily.
+
 D. XML can’t encode numbers.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -115,9 +143,13 @@ D. XML can’t encode numbers.
 **8) In a multi-tier web architecture, which pairing is correct?**
 
 A. Web server - user auth only.
+
 B. Database server - HTML generation.
+
 C. Web server - Atomicity, Consistency, Isolation, Durability (ACID) transactions.
+
 D. Application server - application-specific operations.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -131,9 +163,13 @@ D. Application server - application-specific operations.
 **9) What’s the main role of a load balancer in client–server systems?**
 
 A. Encrypt database tables.
+
 B. Distribute requests across servers to share load and improve availability.
+
 C. Replace authentication.
+
 D. Eliminate network latency.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -147,9 +183,13 @@ D. Eliminate network latency.
 **10) In the “multiple database per component” design, what extra piece keeps shared data correct?**
 
 A. A reconciliation component/process.
+
 B. A Content Delivery Network (CDN).
+
 C. A sticky-session cookie.
+
 D. A single global mutex.
+
 
 <details>
 <summary>Show Answer</summary>

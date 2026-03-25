@@ -3,9 +3,13 @@
 **1) Adaptive models are designed to:**
 
 A. Prevent requirement changes.
+
 B. Accommodate evolving requirements.
+
 C. Replace communication with documentation.
+
 D. Use no iterations.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -19,9 +23,13 @@ D. Use no iterations.
 **2) A key characteristic of adaptive processes is:**
 
 A. Strict phase gating.
+
 B. Detailed upfront planning.
+
 C. Iterative and feedback-driven development.
+
 D. Heavy documentation focus.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -35,9 +43,13 @@ D. Heavy documentation focus.
 **3) Which statement best describes the Product Backlog in Scrum:**
 
 A. A living, prioritized list of everything needed in the product.
+
 B. A fixed contract signed at project start.
+
 C. A list of tasks for developers to complete daily.
+
 D. A complete design document.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -51,9 +63,13 @@ D. A complete design document.
 **4) The Sprint Backlog is BEST described as:**
 
 A. The set of Product Backlog items selected for the current sprint.
+
 B. A list of all work in the entire project.
+
 C. A document controlled only by the Product Owner.
+
 D. A high-level requirement specification.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -67,9 +83,13 @@ D. A high-level requirement specification.
 **5) The Spiral Model primarily focuses on:**
 
 A. Eliminating all project risks.
+
 B. Risk-driven development cycles.
+
 C. Minimizing customer involvement.
+
 D. Rapid, unstructured delivery.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -83,9 +103,13 @@ D. Rapid, unstructured delivery.
 **6) RUP (Rational Unified Process) is best described as:**
 
 A. A pure predictive model.
+
 B. A purely adaptive model with no structure.
+
 C. A structured yet iterative framework.
+
 D. A model that eliminates documentation.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -99,9 +123,13 @@ D. A model that eliminates documentation.
 **7) Agile was created because developers were frustrated with:**
 
 A. Too much customer feedback.
+
 B. Heavy, rigid, inefficient processes.
+
 C. Insufficient documentation.
+
 D. Lack of automated tools.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -115,9 +143,13 @@ D. Lack of automated tools.
 **8) The Agile Manifesto emphasizes:**
 
 A. Following a fixed plan.
+
 B. Maximizing documentation.
+
 C. Individuals and interactions.
+
 D. Minimizing customer collaboration.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -131,9 +163,13 @@ D. Minimizing customer collaboration.
 **9) Which Agile value focuses on prioritizing customer needs:**
 
 A. Responding to change over following a plan.
+
 B. Working software over comprehensive documentation.
+
 C. Customer collaboration over contract negotiation.
+
 D. Individuals and interactions over processes and tools.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -147,9 +183,13 @@ D. Individuals and interactions over processes and tools.
 **10) A key principle of Agile is:**
 
 A. Delivering software only once at the end.
+
 B. Avoiding iterative development.
+
 C. Welcoming changing requirements.
+
 D. Releasing no working software until the entire project is finished.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -163,9 +203,13 @@ D. Releasing no working software until the entire project is finished.
 **11) Scrum is best described as:**
 
 A. A rigid sequential methodology.
+
 B. A lightweight Agile framework.
+
 C. A predictive project management tool.
+
 D. A design-only technique.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -179,9 +223,13 @@ D. A design-only technique.
 **12) The Product Owner is primarily responsible for:**
 
 A. Removing team obstacles.
+
 B. Writing all code.
+
 C. Managing and prioritizing the Product Backlog.
+
 D. Conducting the Daily Scrum.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -195,9 +243,13 @@ D. Conducting the Daily Scrum.
 **13) The Scrum Master's core responsibility is to:**
 
 A. Prioritize backlog items.
+
 B. Facilitate Scrum practices and remove blockers.
+
 C. Approve design decisions.
+
 D. Write user stories.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -211,9 +263,13 @@ D. Write user stories.
 **14) The Development Team in Scrum is:**
 
 A. Self-managing and cross-functional.
+
 B. Strictly controlled by the Scrum Master.
+
 C. Not allowed to collaborate.
+
 D. Forbidden from talking to the Product Owner.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -227,9 +283,13 @@ D. Forbidden from talking to the Product Owner.
 **15) Each Sprint produces:**
 
 A. A fully completed project.
+
 B. A user manual.
+
 C. A potentially shippable product increment.
+
 D. A complete design document.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -243,9 +303,13 @@ D. A complete design document.
 **16) The Daily Scrum is intended to:**
 
 A. Report to the Scrum Master.
+
 B. Identify progress and blockers.
+
 C. Review the entire project.
+
 D. Conduct testing activities.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -259,9 +323,13 @@ D. Conduct testing activities.
 **17) The Sprint Review focuses on:**
 
 A. Reflecting on team performance.
+
 B. Demonstrating the increment and gathering feedback.
+
 C. Planning the next sprint.
+
 D. Estimating user stories.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -275,9 +343,13 @@ D. Estimating user stories.
 **18) The Sprint Retrospective focuses on:**
 
 A. Showing the increment.
+
 B. Reviewing the Product Backlog.
+
 C. Identifying process improvements.
+
 D. Finalizing the product release.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -291,9 +363,13 @@ D. Finalizing the product release.
 **19) Kanban is best described as:**
 
 A. A time-boxed Agile framework.
+
 B. A continuous flow method visualizing work.
+
 C. A predictive model.
+
 D. A debugging technique.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -307,9 +383,13 @@ D. A debugging technique.
 **20) Extreme Programming (XP) emphasizes:**
 
 A. Heavy documentation.
+
 B. Individual contributors working alone.
+
 C. Technical excellence such as Test-Driven Development (TDD) and pair programming.
+
 D. Waterfall-style delivery.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -323,9 +403,13 @@ D. Waterfall-style delivery.
 **21) Lean Software Development focuses on:**
 
 A. Adding extra steps to ensure safety.
+
 B. Eliminating waste and delivering fast.
+
 C. Avoiding customer involvement.
+
 D. Maximizing documentation.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -339,9 +423,13 @@ D. Maximizing documentation.
 **22) FDD (Feature-Driven Development) is especially suited for:**
 
 A. Small, uncertain prototypes.
+
 B. Very large, domain-rich systems.
+
 C. Systems with no clear features.
+
 D. Teams that avoid documentation.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -355,9 +443,13 @@ D. Teams that avoid documentation.
 **23) Scaled Agile Frameworks (e.g., Scaled Agile Framework (SAFe)) exist because:**
 
 A. Agile cannot work in any organization.
+
 B. Large enterprises need coordination across many teams.
+
 C. Agile requires minimal planning.
+
 D. Predictive models scale automatically.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -371,9 +463,13 @@ D. Predictive models scale automatically.
 **24) Which scenario BEST suits Agile:**
 
 A. Government defense system with strict compliance.
+
 B. Building a medical device requiring formal approvals.
+
 C. A startup building a new social media app.
+
 D. Financial reporting software with fixed requirements.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -387,9 +483,13 @@ D. Financial reporting software with fixed requirements.
 **25) Agile welcomes changing requirements because:**
 
 A. It avoids planning.
+
 B. Customers never know what they want.
+
 C. Feedback-driven iterations improve product alignment.
+
 D. Documentation is not important.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -403,9 +503,13 @@ D. Documentation is not important.
 **26) The core unit of work in Scrum is:**
 
 A. The requirement document.
+
 B. The Sprint.
+
 C. The Gantt chart.
+
 D. The phase gate.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -419,9 +523,13 @@ D. The phase gate.
 **27) A major advantage of Agile over predictive models is:**
 
 A. It eliminates testing.
+
 B. It adapts to change more easily.
+
 C. It requires no planning.
+
 D. It guarantees early cost accuracy.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -435,9 +543,13 @@ D. It guarantees early cost accuracy.
 **28) Scrum teams should be:**
 
 A. Large with specialized roles.
+
 B. Self-organizing with cross-functional skills.
+
 C. Managed hierarchically with command-style control.
+
 D. Focused mainly on documentation.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -451,9 +563,13 @@ D. Focused mainly on documentation.
 **29) A Scrum Sprint is typically:**
 
 A. A flexible time period that changes weekly.
+
 B. A fixed-length iteration with clear goals.
+
 C. A continuous flow of work.
+
 D. A meeting with stakeholders.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -467,9 +583,13 @@ D. A meeting with stakeholders.
 **30) The Agile mindset is fundamentally about:**
 
 A. Following strict rules.
+
 B. Avoiding planning.
+
 C. Embracing learning and change.
+
 D. Reducing team collaboration.
+
 
 <details>
 <summary>Show Answer</summary>

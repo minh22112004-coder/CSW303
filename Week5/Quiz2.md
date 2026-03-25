@@ -3,9 +3,13 @@
 **1) What does the acronym REST stand for?**
 
 A. Remote Execution STrategy
+
 B. REpresentational State Transfer
+
 C. Resource, Entity, and Service Transfer
+
 D. Reliable Enterprise Service Transport
+
 
 <details>
 <summary>Show Answer</summary>
@@ -19,9 +23,13 @@ D. Reliable Enterprise Service Transport
 **2) What is the fundamental concept of a "resource" in the REST architectural style?**
 
 A. A function or method call that can be executed remotely.
+
 B. Any chunk of data (e.g., a database record, document, or catalog item) that is identified by a unique Uniform Resource Identifier (URI).
+
 C. A standardized message protocol, like Simple Object Access Protocol (SOAP) or Advanced Message Queuing Protocol (AMQP).
+
 D. A stateful connection that is maintained between the client and server.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -35,9 +43,13 @@ D. A stateful connection that is maintained between the client and server.
 **3) In the RESTful architectural style, which Hypertext Transfer Protocol (HTTP) verb is correctly mapped to its intended operation for managing a resource?**
 
 A. GET is used to create a new resource.
+
 B. POST is used to modify an existing resource's data.
+
 C. PUT is used to update or modify an existing resource.
+
 D. DELETE is used to retrieve a read-only representation of a resource.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -51,9 +63,13 @@ D. DELETE is used to retrieve a read-only representation of a resource.
 **4) How should the GET verb be used in a RESTful service?**
 
 A. To create a new resource with a server-defined URI.
+
 B. To read a resource, and it should never update or change the resource's value.
+
 C. To update an existing resource at a specific URI.
+
 D. To delete all sub-resources under a specific URI.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -67,9 +83,13 @@ D. To delete all sub-resources under a specific URI.
 **5) Which HTTP verb is used to create a new resource, with the server typically assigning the new resource's URI?**
 
 A. GET
+
 B. PUT
+
 C. POST
+
 D. CREATE
+
 
 <details>
 <summary>Show Answer</summary>
@@ -83,9 +103,13 @@ D. CREATE
 **6) According to the text, what is the most commonly used representation for digital resources in modern RESTful microservices?**
 
 A. Extensible Markup Language (XML)
+
 B. HyperText Markup Language (HTML)
+
 C. Plain Text
+
 D. JavaScript Object Notation (JSON)
+
 
 <details>
 <summary>Show Answer</summary>
@@ -99,9 +123,13 @@ D. JavaScript Object Notation (JSON)
 **7) In an HTTP request for a RESTful service, what is the purpose of the Content-Type header?**
 
 A. It specifies the data format (e.g., application/json) that the client is sending in the request body.
+
 B. It specifies the content-types (e.g., application/json) that the client can process and finds acceptable in the service response.
+
 C. It specifies the length of the text in the response body.
+
 D. It provides the authentication token to prove the client is allowed to access the resource.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -115,9 +143,13 @@ D. It provides the authentication token to prove the client is allowed to access
 **8) In an HTTP response, what does the status code 200 indicate?**
 
 A. The request has failed because the resource was not found.
+
 B. The request has been successfully processed, but there is no associated content to return.
+
 C. The request has been successfully processed, and the response body typically contains the requested data.
+
 D. The request has failed because the input data was malformed (e.g., "Unprocessable entity").
+
 
 <details>
 <summary>Show Answer</summary>
@@ -131,9 +163,13 @@ D. The request has failed because the input data was malformed (e.g., "Unprocess
 **9) What does the HTTP status code 204 signify?**
 
 A. The resource was not found.
+
 B. The request was successful, but there is no content to return.
+
 C. The service has encountered an internal failure.
+
 D. The request is malformed.
+
 
 <details>
 <summary>Show Answer</summary>

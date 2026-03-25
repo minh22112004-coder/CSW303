@@ -3,9 +3,13 @@
 **1) Which sequence correctly describes the flow of changes from your local edits to the remote server in Git?**
 
 A. Working Directory → Local Commits → Staging Area → Remote
+
 B. Staging Area → Working Directory → Remote → Local Commits
+
 C. Working Directory → Staging Area → Local Commits → Remote
+
 D. Local Commits → Remote → Staging Area → Working Directory
+
 
 <details>
 <summary>Show Answer</summary>
@@ -19,9 +23,13 @@ D. Local Commits → Remote → Staging Area → Working Directory
 **2) Starting a New Local Project**
 
 A. git clone project-alpha
+
 B. git init
+
 C. git remote add origin ...
+
 D. git commit
+
 
 <details>
 <summary>Show Answer</summary>
@@ -35,9 +43,13 @@ D. git commit
 **3) Ignoring Generated Files**
 
 A. Run git clean -fd before every commit.
+
 B. Add the lines *.log and /dist to a .gitignore file.
+
 C. Manually delete the files before running git add.
+
 D. Use git update-index --assume-unchanged on the files.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -51,9 +63,13 @@ D. Use git update-index --assume-unchanged on the files.
 **4) What is the primary function of a .gitignore file?**
 
 A. To list files that Git should permanently delete from the project history.
+
 B. To specify files and directories that Git should intentionally not track, such as build artifacts or local environment files.
+
 C. To highlight important files that must be included in every commit.
+
 D. To configure the global settings for your Git installation.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -67,9 +83,13 @@ D. To configure the global settings for your Git installation.
 **5) The Accidental add**
 
 A. git rm --cached secrets.env
+
 B. git reset secrets.env or git restore --staged secrets.env
+
 C. git checkout -- secrets.env
+
 D. Delete the file and then restore it from the last commit.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -83,9 +103,13 @@ D. Delete the file and then restore it from the last commit.
 **6) What is the most significant advantage of using branches in your development workflow?**
 
 A. They create secure, encrypted copies of your codebase.
+
 B. They reduce the amount of disk space a repository uses.
+
 C. They allow you to work on new features or fixes in isolation without disrupting the stability of the main codebase.
+
 D. They automatically resolve merge conflicts between different developers.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -99,9 +123,13 @@ D. They automatically resolve merge conflicts between different developers.
 **7) A Forgotten File**
 
 A. Create a new commit with the message "fix: Add missing Cascading Style Sheets (CSS)".
+
 B. Use git reset --hard HEAD~1 (HEAD is the current commit pointer) and then re-commit both files.
+
 C. Use git add style.css and then git commit --amend.
+
 D. Use git revert HEAD to undo the commit and start over.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -115,9 +143,13 @@ D. Use git revert HEAD to undo the commit and start over.
 **8) What is the key difference between the git fetch and git pull commands?**
 
 A. git fetch uploads your changes, while git pull downloads them.
+
 B. git pull is an older, deprecated command, whereas git fetch is the modern replacement.
+
 C. git fetch only works for the main branch, while git pull works for all branches.
+
 D. git fetch downloads remote updates but does not merge them, while git pull downloads and merges them into your current branch.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -131,9 +163,13 @@ D. git fetch downloads remote updates but does not merge them, while git pull do
 **9) Which of the following best describes the "Feature branch + Pull Request" collaboration workflow?**
 
 A. All developers commit their changes directly to the main branch.
+
 B. Work is done on a separate branch, pushed to the remote, and then a request is opened for code review before merging.
+
 C. A single, long-running branch is used for development, staging, and production environments.
+
 D. Developers frequently merge small, unreviewed changes to the main branch throughout the day.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -147,9 +183,13 @@ D. Developers frequently merge small, unreviewed changes to the main branch thro
 **10) Resolving a Merge Conflict**
 
 A. git commit and then git merge --continue
+
 B. git add <conflicted_file> and then git merge --continue
+
 C. git rebase --continue
+
 D. git status and then git commit
+
 
 <details>
 <summary>Show Answer</summary>
@@ -163,9 +203,13 @@ D. git status and then git commit
 **11) What is the recommended strategy for avoiding merge conflicts on a long-running feature branch?**
 
 A. Push the branch to the remote only when the feature is completely finished.
+
 B. Frequently merge or rebase the main branch into your feature branch to stay up-to-date.
+
 C. Avoid pulling any changes from the main branch until you are ready to merge.
+
 D. Delete and recreate the branch from main whenever a major change happens on main.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -179,9 +223,13 @@ D. Delete and recreate the branch from main whenever a major change happens on m
 **12) Staying Synced with an Upstream Fork**
 
 A. Re-clone the original repository every day.
+
 B. Manually copy-paste changes from the original project's website.
+
 C. Add the original project's Uniform Resource Locator (URL) as a remote named upstream.
+
 D. Push his changes directly to the original repository's main branch.
+
 
 <details>
 <summary>Show Answer</summary>

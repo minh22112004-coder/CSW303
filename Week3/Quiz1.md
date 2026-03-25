@@ -3,9 +3,13 @@
 **1) What is widely considered the primary underlying cause of many faults and programming errors?**
 
 A. Complexity
+
 B. Poor performance
+
 C. Outdated hardware
+
 D. Frequent requirement changes
+
 
 <details>
 <summary>Show Answer</summary>
@@ -19,9 +23,13 @@ D. Frequent requirement changes
 **2) The "Single Responsibility Principle" (SRP) states that a class should have...**
 
 A. ...only one public method.
+
 B. ...only one developer working on it.
+
 C. ...only one primary reason to change.
+
 D. ...no more than 100 lines of code.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -35,9 +43,13 @@ D. ...no more than 100 lines of code.
 **3) A class ReportGenerator both fetches data from a database and formats it as a Portable Document Format (PDF). This violates SRP. What is the best way to refactor this?**
 
 A. Add a new method to also format the data as a Comma-Separated Values (CSV).
+
 B. Move the database-fetching logic into a separate ReportData class.
+
 C. Make the class static so it can be accessed globally.
+
 D. Add more comments to explain what the class is doing.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -51,9 +63,13 @@ D. Add more comments to explain what the class is doing.
 **4) Deeply nested if-else statements are a "code smell" primarily because they increase...**
 
 A. ...Data Complexity.
+
 B. ...Decision Complexity.
+
 C. ...Program compile time.
+
 D. ...Network latency.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -67,9 +83,13 @@ D. ...Network latency.
 **5) What is a "Guard Clause"?**
 
 A. A try-catch block used to protect code from crashing.
+
 B. A conditional check at the beginning of a function that returns early.
+
 C. A password or key used to protect a block of data.
+
 D. A comment that warns other developers not to change a function.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -83,9 +103,13 @@ D. A comment that warns other developers not to change a function.
 **6) Why is it generally recommended to avoid deep inheritance hierarchies?**
 
 A. They are no longer supported in modern programming languages.
+
 B. They create tight coupling and make the impact of changes hard to predict.
+
 C. They are much slower than using if-else statements.
+
 D. They prevent the use of automated unit testing.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -99,9 +123,13 @@ D. They prevent the use of automated unit testing.
 **7) What is the primary benefit of using an established design pattern?**
 
 A. It is a reliable, proven, and well-understood solution to a common problem.
+
 B. It guarantees your program will run faster than any other solution.
+
 C. It is the only correct way to write object-oriented code.
+
 D. It automatically writes large sections of your code for you.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -115,9 +143,13 @@ D. It automatically writes large sections of your code for you.
 **8) You need to provide a single, simplified interface to a very complex subsystem of classes. What structural design pattern is best for this?**
 
 A. The Observer Pattern
+
 B. The Facade Pattern
+
 C. The Singleton Pattern
+
 D. The Prototype Pattern
+
 
 <details>
 <summary>Show Answer</summary>
@@ -131,9 +163,13 @@ D. The Prototype Pattern
 **9) You are building a weather app. When the WeatherStation object's data changes, multiple user interface (UI) elements (a chart, a dashboard) must all update automatically. What behavioral pattern is best for this?**
 
 A. The Observer Pattern
+
 B. The Facade Pattern
+
 C. The State Pattern
+
 D. The Mediator Pattern
+
 
 <details>
 <summary>Show Answer</summary>
@@ -147,9 +183,13 @@ D. The Mediator Pattern
 **10) What is the definition of "refactoring"?**
 
 A. Fixing all known bugs in a program before a release.
+
 B. Rewriting a program from scratch in a new language.
+
 C. Improving the internal structure of code without changing its external behavior.
+
 D. Adding new features to an existing program.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -163,9 +203,13 @@ D. Adding new features to an existing program.
 **11) What is the most crucial step to perform repeatedly while refactoring a program?**
 
 A. Get approval from your manager for every change.
+
 B. Delete all the old code that you are replacing.
+
 C. Run the automated test suite after each small change.
+
 D. Write documentation for the new code.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -179,9 +223,13 @@ D. Write documentation for the new code.
 **12) The "Gang of Four" (GoF) design patterns are grouped into three categories. Which of the following is NOT one of those categories?**
 
 A. Creational
+
 B. Structural
+
 C. Functional
+
 D. Behavioral
+
 
 <details>
 <summary>Show Answer</summary>

@@ -3,9 +3,13 @@
 **1) In which scenario is git revert the most appropriate command to use?**
 
 A. When you want to undo a commit that has already been pushed to a shared branch without rewriting history.
+
 B. When you want to fix a typo in the message of your most recent, un-pushed commit.
+
 C. When you need to combine the last three commits on your local branch into a single commit.
+
 D. When you want to discard all changes in your working directory and staging area.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -19,9 +23,13 @@ D. When you want to discard all changes in your working directory and staging ar
 **2) What is the primary function of the git reflog command?**
 
 A. To list all the remote repositories configured for the project.
+
 B. To provide a log of where your HEAD (current commit pointer) and branch pointers have been, acting as a safety net to recover "lost" work.
+
 C. To show the commit history in a graphical format.
+
 D. To delete old commit references to save space.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -35,9 +43,13 @@ D. To delete old commit references to save space.
 **3) Bob is in the middle of developing a complex new feature. Suddenly, a critical bug is reported in production. Bob needs to fix the bug immediately, but his current work is unfinished and not ready to be committed. What should Bob do to safely set aside his current work so he can switch branches?**
 
 A. Run git commit -m "Work In Progress (WIP)" to save the unfinished work.
+
 B. Run git stash to temporarily shelve his changes.
+
 C. Run git reset --hard to discard his current work.
+
 D. Run git clean -fd to remove all untracked files.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -51,9 +63,13 @@ D. Run git clean -fd to remove all untracked files.
 **4) When is the git stash command most useful?**
 
 A. When you want to permanently save a version of your code as an official release.
+
 B. When you need to switch to another branch but have unfinished work you aren't ready to commit.
+
 C. When you want to delete all untracked files from your working directory.
+
 D. When you have finished your work and are ready to push it to the remote repository.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -67,9 +83,13 @@ D. When you have finished your work and are ready to push it to the remote repos
 **5) Frank has finished a feature on his branch. The history contains 10 small, messy commits like "fix typo," "wip," and "try another thing." Before opening a Pull Request (PR), he wants to combine them into two meaningful commits to make the history easier to review. Which command should he use?**
 
 A. git merge --squash main
+
 B. git rebase -i HEAD~10
+
 C. git commit --amend for each of the 10 commits.
+
 D. git filter-branch
+
 
 <details>
 <summary>Show Answer</summary>
@@ -83,9 +103,13 @@ D. git filter-branch
 **6) Isabella has modified three files but has not staged them yet. She wants to see a line-by-line view of all the changes she has made in her working directory compared to the last commit. Which command will show her this?**
 
 A. git status
+
 B. git log -p
+
 C. git diff
+
 D. git diff --staged
+
 
 <details>
 <summary>Show Answer</summary>
@@ -99,9 +123,13 @@ D. git diff --staged
 **7) What information does the git blame command provide for a specific file?**
 
 A. It shows which developer is responsible for the most bugs in that file.
+
 B. It provides a line-by-line breakdown of who last changed each line and in which commit.
+
 C. It displays a summary of all merge conflicts that have occurred in the file's history.
+
 D. It generates a report detailing the file's overall change history and size over time.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -115,9 +143,13 @@ D. It generates a report detailing the file's overall change history and size ov
 **8) A feature that was working in last month's release (tagged v1.5.0) is now broken on the main branch. David needs to find the exact commit that introduced this regression among the dozens of commits made since the release. What is the most efficient Git tool for this task?**
 
 A. git blame <file>
+
 B. git log -p
+
 C. git bisect
+
 D. git show <commit>
+
 
 <details>
 <summary>Show Answer</summary>
@@ -131,9 +163,13 @@ D. git show <commit>
 **9) Liam's team is ready to deploy version 2.0.0. The final commit is on main. He needs to create a permanent, formal marker for this specific commit that includes a message about the release. What should he use?**
 
 A. git branch v2.0.0
+
 B. git tag -a v2.0.0 -m "Version 2.0.0 release"
+
 C. git commit --allow-empty -m "Release v2.0.0"
+
 D. git note add -m "v2.0.0"
+
 
 <details>
 <summary>Show Answer</summary>
@@ -147,9 +183,13 @@ D. git note add -m "v2.0.0"
 **10) Maria is trying to add a 500MB machine learning model file (model.h5) to her project. Her team uses Git Large File Storage (LFS). What is the correct procedure for her to add this file?**
 
 A. Add model.h5 to .gitignore to keep the repo small.
+
 B. Run git lfs track "*.h5", then git add .gitattributes model.h5.
+
 C. Commit the file normally; Git will handle it automatically.
+
 D. Zip the file and then commit the .zip archive.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -163,9 +203,13 @@ D. Zip the file and then commit the .zip archive.
 **11) How does Git Large File Storage (LFS) help manage large binary files?**
 
 A. It prevents any file larger than 100MB from being committed to the repository.
+
 B. It stores the content of large files on an external server, placing only lightweight pointers in the Git history.
+
 C. It automatically compresses binary files into a more efficient format.
+
 D. It converts binary files into a text-based format so they can be diffed easily.
+
 
 <details>
 <summary>Show Answer</summary>
@@ -179,9 +223,13 @@ D. It converts binary files into a text-based format so they can be diffed easil
 **12) Olivia wants to see a compact, graphical view of the commit history from all branches, not just her current one. What is the best command to get this rich, condensed overview?**
 
 A. git log -p --all
+
 B. git shortlog --summary
+
 C. git log --oneline --graph --decorate --all
+
 D. git log --simplify-by-decoration
+
 
 <details>
 <summary>Show Answer</summary>
